@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contact-conatainer {
+    width: 90%;
+    /* background-color: red; */
+}
+
+.label-text {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+
+
+.image-box {
+    /* position: relative; */
+
+    overflow: hidden;
+}
+
+.image-box img {
+
+    transition: all 0.3s ease-out;
+}
+
+.image-box:hover img {
+    transform: scale(1.1);
+    opacity: 0.8;
+}
+
+.footer {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 50px;
+    background: black;
+    color: #fff;
+    padding: 20px;
+}
