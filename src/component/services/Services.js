@@ -67,7 +67,7 @@ export default function Services() {
                     <List.Item>Run tests to make sure your changes do not break the build</List.Item>
                     <List.Item>Submit a pull request once you are done</List.Item>
                   </List>
-                  <Text mt="lg">
+                  <Text mt="lg" className='title'>
 
                   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, repudiandae eum doloremque impedit tempore placeat autem reiciendis nulla possimus iusto repellat minus nobis rerum quasi explicabo quidem quos dolorem. Fugit praesentium, totam laboriosam vero quam in accusantium maiores nihil animi doloremque, et officia suscipit neque dolores at eius amet saepe fuga ratione tenetur asperiores? Beatae repellendus eos saepe labore recusandae nemo facere et sit, odit assumenda neque ut, tenetur doloremque deserunt at, voluptatem repellat quidem impedit incidunt ipsam consequatur. Nesciunt, temporibus excepturi labore iusto accusantium dolore reprehenderit, ad, ullam illum commodi minus. Iusto laboriosam distinctio numquam eius culpa, rem incidunt.
                   </Text>
